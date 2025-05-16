@@ -45,3 +45,8 @@ public/_auth/*
 firebase.json
 firebase-debug.log
 firestore-debug.log
+
+# package-lock  
+package-lock.json
+package-lock.json.*package-lock.json
+package-lock.json
