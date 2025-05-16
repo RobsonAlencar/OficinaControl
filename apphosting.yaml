@@ -8,7 +8,6 @@ runConfig:
   # memoryMiB: 512
 
 # Environment variables and secrets.
-# apphosting.yaml
 env:
   - variable: NEXT_PUBLIC_FIREBASE_CONFIG
     value: '{ "apiKey": "AIzaSyBARsJ-gYkcov_7PXFVqd0dMuMlZyyszIw", "authDomain": "estudo-next-9m4tr.firebaseapp.com", "projectId": "estudo-next-9m4tr", ""storageBucket": "estudo-next-9m4tr.firebasestorage.app", "messagingSenderId": "232548302439", "appId": "1:232548302439:web:0fc3f2ae8ce0527580dec2" }'
